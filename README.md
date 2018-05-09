@@ -1,4 +1,9 @@
-# Demo2
+# Plotly hover event in one chart to show/hide traces in a second.
+This project demos using the plotly angular component including (hover) binding to couple two charts together.
+
+Angular CLI boiler plate follows....
+
+# Demo 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
